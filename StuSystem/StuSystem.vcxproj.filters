@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StuSystem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StuSystemDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StuSystemView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UserDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TeaInfoDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TeaInsertDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TeaUpdateDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TeaRatio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TeaApplyDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminInfoDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminApplyDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminInsertDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminDeleteDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileIO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="StuSystem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StuSystemDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StuSystemView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Public.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UserDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TeaInfoDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TeaInsertDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TeaUpdateDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TeaRatio.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TeaApplyDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminInfoDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminApplyDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminInsertDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminDeleteDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileIO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="StuSystem.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\StuSystem.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\StuSystemDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\StuSystem.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\student.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\test.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
